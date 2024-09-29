@@ -1,0 +1,37 @@
+body {
+    font-size: 1.5em;
+    background: #641e1e;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2 span, p {
+    display: inline; 
+    background-color: rgba(255, 255, 255, 0.867);
+    padding: 5px;
+}
+
+
+#books {
+    float: left; 
+    margin-right: 10px;
+    height: 200px;
+    width: 200px;
+    border: 5px solid black;
+    margin-bottom: 20px;
+}
+
+.potion-container {
+    clear: left;  
+}
+
+#potion {
+    float: left;
+    margin-right: 10px;
+    height: 205px;
+    width: 205px;
+    border: 5px solid black;
+
+}
+
+
